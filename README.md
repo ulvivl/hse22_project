@@ -10,7 +10,7 @@
 
 Вид | Уровень сборки | GC%
 ---|---|---
-Leishmania chagasi | Chromosome | 59,5567
+Leishmania infantum JPCM5 | Chromosome | 59,5663
 Leishmania donovani | Chromosome | 59,1146
 Leishmania enriettii | Chromosome | 59,5865
 Leishmania martiniquensis | Chromosome | 59,8521
