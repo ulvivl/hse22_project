@@ -23,11 +23,11 @@ Leishmania panamensis |  Chromosome | 57,3879 | GCA_000755165
 
 Образец | Число генов |	Длина генома | Длина участков с экзонами |	Доля покрытия экзонами
 ---|---|---|---|---
-Leishmania donovani	| 8195.0	| 32444968.0	| 14824824.0	| 45.7
-Leishmania enriettii| 8353.0	| 33318864.0	| 15840130.0	| 47.5
-Leishmania infantum JPCM5 	| 8383.0	| 32122061.0	| 15607169.0	| 48.6
-Leishmania martiniquensis	| 7967.0	| 32413670.0	| 14791807.0	| 45.6
-Leishmania panamensis	| 8048.0	| 30688794.0	| 14547601.0	| 47.4
+Leishmania donovani	| 8195	| 32444968	| 14824824	| 45.7
+Leishmania enriettii| 8353	| 33318864	| 15840130	| 47.5
+Leishmania infantum JPCM5 	| 8383	| 32122061	| 15607169	| 48.6
+Leishmania martiniquensis	| 7967	| 32413670	| 14791807	| 45.6
+Leishmania panamensis	| 8048	| 30688794	| 14547601	| 47.4
 
 
 
