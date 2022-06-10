@@ -74,6 +74,9 @@ infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_0
 martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_3.png)
 panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_3.png)
 
+#  Определяем гомологичные связи между белками выбранных геномов
+
+Данный этап был выполнен в jupyter notebook, находящийся в папке src, так как там он выполнялся гораздо быстрее, чем в colab.
 
 
 
