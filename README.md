@@ -17,7 +17,7 @@ Leishmania martiniquensis | Chromosome | 59,8521 | GCA_017916325
 Leishmania panamensis |  Chromosome | 57,3879 | GCA_000755165
 
 ---
-# Анализ аннотированных генов
+# Анализируем аннотированные гены
 
 Поскольку я работала с эукариотами, то в таблице ниже представлены число генов, длина генома, длина участков с экзонами, доля покрытия экзонами.
 
@@ -30,7 +30,7 @@ martiniquensis	| 7967	| 32413670	| 14791807	| 45.6
 panamensis	| 8048	| 30688794	| 14547601	| 47.4
 
 ---
-# Предсказание участков Z-DNA
+# Предсказываем участки Z-DNA
 
 В данном пункте было произведено предсказание участков Z-DNA с помощью программы zhunt. Далее были отобраны только те участки Z-DNA, у которых zh-score больше 500. По полученным данным были посчитаны некоторые показатели. Ниже представлены результаты для каждого генома.
 
@@ -44,7 +44,7 @@ panamensis |	268611 |	5617 |	60450
 
 Гистограммы распределения
 
-Название вида | гистограмма
+Название вида | Гистограмма
 ---|---
 donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713.png)
 enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305.png)
@@ -52,8 +52,17 @@ infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_0
 martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325.png)
 panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165.png)
 
+# Ассоциируем предсказанные участки Z-DNA с промотерами генов
 
+Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
 
+Название вида | Визуализация
+---|---
+donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713_2.png)
+enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305_2.png)
+infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_2.png)
+martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_2.png)
+panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_2.png)
 
 
 
