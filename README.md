@@ -64,7 +64,7 @@ infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_0
 martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_2.png)
 panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_2.png)
 
-#### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
+#### Визуализация генов и предсказанных участков Z-DNA с помощью IGV
 
 Название вида | Визуализация
 ---|---
