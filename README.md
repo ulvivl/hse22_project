@@ -54,7 +54,7 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 
 # Ассоциируем предсказанные участки Z-DNA с промотерами генов
 
-#### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
+### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
 
 Название вида | Визуализация
 ---|---
