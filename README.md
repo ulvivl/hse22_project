@@ -42,7 +42,7 @@ infantum JPCM5 |	277951 |	9051 |	98310
 martiniquensis |	241723 |	6741 |	72132 
 panamensis |	268611 |	5617 |	60450
 
-Гистограммы распределения
+#### Гистограммы распределения
 
 Название вида | Гистограмма
 ---|---
@@ -54,7 +54,7 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 
 # Ассоциируем предсказанные участки Z-DNA с промотерами генов
 
-### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
+#### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
 
 Название вида | Визуализация
 ---|---
@@ -64,6 +64,15 @@ infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_0
 martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_2.png)
 panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_2.png)
 
+#### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
+
+Название вида | Визуализация
+---|---
+donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713_3.png)
+enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305_3.png)
+infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_3.png)
+martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_3.png)
+panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_3.png)
 
 
 
