@@ -3,7 +3,7 @@
 ---
 # Ссылки
 1. [Условие](https://docs.google.com/document/d/1kU0Q6192Wc4tE080A2ZqZUFkjX7Ls_OVvc2gIDuKYx0/edit#)
-2. [Colab с кодом](https://colab.research.google.com/drive/1Q11wzyHAOGKgjaSAz116XPAKo8KAybvd?usp=sharing)
+2. [Colab с кодом]()
 
 ---
 # Выбранные геномы:
