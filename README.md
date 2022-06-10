@@ -44,7 +44,19 @@ panamensis |	268611 |	5617 |	60450
 
 Гистограммы распределения
 
-![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_2.png)
+Название вида | гистограмма
+---|---
+donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713.png)
+enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305.png)
+infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875.png)
+martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325.png)
+panamensis |  ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165.png)
+
+
+
+
+
+
 
 
 
