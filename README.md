@@ -40,7 +40,11 @@ donovani |	283432 |	9151 |	99396
 enriettii |	263205 |	8728 |	94900 
 infantum JPCM5 |	277951 |	9051 |	98310 
 martiniquensis |	241723 |	6741 |	72132 
-panamensis |	268611 |	5617 |	60450 
+panamensis |	268611 |	5617 |	60450
+
+Гистограммы распределения
+
+![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_2.png)
 
 
 
