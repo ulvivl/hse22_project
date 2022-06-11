@@ -6,7 +6,7 @@
 2. [Colab с кодом](https://colab.research.google.com/drive/1Q11wzyHAOGKgjaSAz116XPAKo8KAybvd?usp=sharing)
 
 ---
-# Выбранные геномы:
+# Выбранные геномы
 
 Вид | Уровень сборки | GC% | Название в colab
 ---|---|---|---
