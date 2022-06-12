@@ -122,24 +122,24 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 5 | infantum JPCM5 | CAM60013.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 5 | martiniquensis | KAG5487716.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 5 | panamensis | AIN95270.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-6 | donovani | CBZ36459.1 | mevalonate kinase, putative | катализирует превращение мевалоната в фосфомевалонат | aaaaaa
+6 | donovani | CBZ36459.1 | mevalonate kinase, putative | катализирует превращение мевалоната в фосфомевалонат | https://www.sciencedirect.com/topics/neuroscience/mevalonate-kinase
 6 | enriettii | KAG5471934.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-6 | infantum JPCM5 | CAM70439.1 | putative mevalonate kinase | катализирует превращение мевалоната в фосфомевалонат | aaaaaaaa
+6 | infantum JPCM5 | CAM70439.1 | putative mevalonate kinase | катализирует превращение мевалоната в фосфомевалонат | https://www.sciencedirect.com/topics/neuroscience/mevalonate-kinase
 6 | martiniquensis | KAG5471283.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-6 | panamensis | AIO00643.1 | mevalonate kinase, putative | катализирует превращение мевалоната в фосфомевалонат |aaaaaaaaaaaaaaa
+6 | panamensis | AIO00643.1 | mevalonate kinase, putative | катализирует превращение мевалоната в фосфомевалонат | https://www.sciencedirect.com/topics/neuroscience/mevalonate-kinase
 7 | donovani | CBZ33319.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 7 | enriettii | KAG5481621.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 7 | infantum JPCM5 | CAM67065.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 7 | martiniquensis | KAG5480982.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-7 | panamensis | AIN97193.1 | ARF-like 2-binding protein, putative | активацию ферментов, таких как фосфатидилинозитол (PtdIns) киназы | aaaaaaa
+7 | panamensis | AIN97193.1 | ARF-like 2-binding protein, putative | активацию ферментов, таких как фосфатидилинозитол (PtdIns) киназы | https://www.nature.com/articles/nrm3117
 8 | donovani | CBZ33031.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 8 | enriettii | KAG5482503.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 8 | infantum JPCM5 | CAM66930.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 8 | martiniquensis | KAG5481974.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 8 | panamensis | AIN96925.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-9 | donovani | CBZ36064.1 | WD-40 repeat protein | участвуют в росте, клеточном цикле, развитии и вирулентности | aaaaaaaaa
+9 | donovani | CBZ36064.1 | WD-40 repeat protein | участвуют в росте, клеточном цикле, развитии и вирулентности | https://link.springer.com/article/10.1007/s10930-018-9785-7
 9 | enriettii | KAG5473032.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
-9 | infantum JPCM5 | CAM69937.1 | WD-40 repeat protein | участвуют в росте, клеточном цикле, развитии и вирулентности | aaaaaaaaa
+9 | infantum JPCM5 | CAM69937.1 | WD-40 repeat protein | участвуют в росте, клеточном цикле, развитии и вирулентности | https://link.springer.com/article/10.1007/s10930-018-9785-7
 9 | martiniquensis | KAG5472263.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 9 | panamensis | AIO00278.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 
