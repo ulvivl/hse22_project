@@ -78,8 +78,71 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 
 Данный этап был выполнен в jupyter notebook, находящийся в папке src, так как там он выполнялся гораздо быстрее, чем в colab.
 
-# Определяем кластеры гомологов-белков/генов, где наблюдается консервативность ассоциированных с участками Z-DNA
-# Множественное белковое выравнивание для каждого выбранного кластера
+#### Информация по полученным гомологичным кластерам
+Общее число кластеров: 8114
+
+Гистограмма кластеров по кол-ву разных геномов в кластере
+
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/60758722/173225361-9b88f357-4fa9-4b46-aba6-3307de36b4e1.png">
+
+#### Таблица с информацией по выбранным кластерам
+
+Я выбирала такие кластеры, чтобы и в столбце ```# Speciуs``` и в столбце ```Genes``` было одно и тоже число 5, так как всего мы рассматриваем 5 геномов.
+Получается что я буду рассматривать кластеры, в которых находится по одному гену из генома.
+
+Номер кластера | Название вида | Название гена | Функция гена
+---|---|---|---
+0 | donovani | CBZ36062.1 | hypothetical protein, conserved
+0 | enriettii | KAG5473030.1 | hypothetical protein
+0 | infantum JPCM5 | CAM69935.1 | conserved hypothetical protein
+0 | martiniquensis | KAG5472261.1 | hypothetical protein
+0 | panamensis | AIO00276.1 | hypothetical protein
+1 | donovani | CBZ31255.1 | hypothetical protein, conserved
+1 | enriettii | KAG5486925.1 | hypothetical protein
+1 | infantum JPCM5 | CBZ08318.1 | conserved hypothetical protein
+1 | martiniquensis | KAG5487692.1 | hypothetical protein
+1 | panamensis | AIN95248.1 | hypothetical protein
+2 | donovani | CBZ31885.1 | hypothetical protein, conserved
+2 | enriettii | KAG5485099.1 | hypothetical protein
+2 | infantum JPCM5 | CBZ08369.1 | conserved hypothetical protein
+2 | martiniquensis | KAG5485768.1 | hypothetical protein
+2 | panamensis | AIN95850.1 | hypothetical protein
+3 | donovani | CBZ33322.1 | serine/threonine protein phosphatase type 5, putative
+3 | enriettii | KAG5481624.1 | hypothetical protein
+3 | infantum JPCM5 | CAM67068.1  | putative serine/threonine protein phosphatase type 5
+3 | martiniquensis | KAG5480985.1 | hypothetical protein
+3 | panamensis | AIN97196.1 | serine/threonine protein phosphatase type 5, putative
+4 | donovani | CBZ32552.1 | hypothetical protein, conserved
+4 | enriettii | KAG5483451.1 | hypothetical protein
+4 | infantum JPCM5 | CAM66459.1 | conserved hypothetical protein
+4 | martiniquensis | KAG5484026.1 | hypothetical protein
+4 | panamensis | AIN96482.1 | hypothetical protein
+5 | donovani | CBZ31279.1 | hypothetical protein, conserved
+5 | enriettii | KAG5486948.1 | hypothetical protein
+5 | infantum JPCM5 | CAM60013.1 | conserved hypothetical protein
+5 | martiniquensis | KAG5487716.1 | hypothetical protein
+5 | panamensis | AIN95270.1 | hypothetical protein
+6 | donovani | CBZ36459.1 | mevalonate kinase, putative
+6 | enriettii | KAG5471934.1 | hypothetical protein
+6 | infantum JPCM5 | CAM70439.1 | putative mevalonate kinase
+6 | martiniquensis | KAG5471283.1 | hypothetical protein
+6 | panamensis | AIO00643.1 | mevalonate kinase, putative
+7 | donovani | CBZ33319.1 | hypothetical protein, conserved
+7 | enriettii | KAG5481621.1 | hypothetical protein
+7 | infantum JPCM5 | CAM67065.1 | conserved hypothetical protein
+7 | martiniquensis | KAG5480982.1 | hypothetical protein
+7 | panamensis | AIN97193.1 | ARF-like 2-binding protein, putative
+8 | donovani | CBZ33031.1 | hypothetical protein, conserved
+8 | enriettii | KAG5482503.1 | hypothetical protein
+8 | infantum JPCM5 | CAM66930.1 | conserved hypothetical protein
+8 | martiniquensis | KAG5481974.1 | hypothetical protein
+8 | panamensis | AIN96925.1 | hypothetical protein
+9 | donovani | CBZ36064.1 | WD-40 repeat protein
+9 | enriettii | KAG5473032.1 | hypothetical protein
+9 | infantum JPCM5 | CAM69937.1 | WD-40 repeat protein
+9 | martiniquensis | KAG5472263.1 | hypothetical protein
+9 | panamensis | AIO00278.1 | hypothetical protein
+
 
 Что еще нужно
 (Информация по полученным гомологичным кластерам (сколько всего кластеров + гистограмма кластеров по кол-ву разных геномов в кластере - 5, 4, 3, 2)
