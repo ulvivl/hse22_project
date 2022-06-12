@@ -55,7 +55,7 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 # Ассоциируем предсказанные участки Z-DNA с промотерами генов
 
 #### Визуализация генов и предсказанных участков Z-DNA с помощью GraphicFeature, GraphicRecord
-
+На картинках ниже изображено по одной Z-DNA, находящейся на промотере гена для 3 генов из генома 
 Название вида | Визуализация
 ---|---
 donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713_4.png)
