@@ -90,8 +90,8 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 Я выбирала такие кластеры, чтобы и в столбце ```# Speciуs``` и в столбце ```Genes``` было одно и тоже число 5, так как всего мы рассматриваем 5 геномов.
 Получается что я буду рассматривать кластеры, в которых находится по одному гену из генома.
 
-Номер кластера | Название вида | product_accession | Функция гена | Ссылка на источник
----|---|---|---|---
+Номер кластера | Название вида | product_accession | Имя | Функция гена | Ссылка на источник
+---|---|---|---|---|---
 0 | donovani | CBZ36062.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 0 | enriettii | KAG5473030.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 0 | infantum JPCM5 | CAM69935.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
