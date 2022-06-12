@@ -143,10 +143,63 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 9 | martiniquensis | KAG5472263.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 9 | panamensis | AIO00278.1 | hypothetical protein | определение функции затруднено| https://en.wikipedia.org/wiki/Hypothetical_protein
 
+ Про расположение Z-DNA и Z-DNA score легче на рисунке показать, который будет представлен ниже.
 
-Что еще нужно
-(Информация по полученным гомологичным кластерам (сколько всего кластеров + гистограмма кластеров по кол-ву разных геномов в кластере - 5, 4, 3, 2)
-Таблица с информацией по выбранным кластерам (сколько генов в кластере, функция этих генов, расположение Z-DNA относительно этих генов, Z-DNA score) - не более 10 шт
-Множественное белковое выравнивание для каждого выбранного кластера
-Визуализация расположения участков Z-DNA для каждого выбранного кластера
-)
+# Множественное белковое выравнивание
+
+Для каждого выбранного кластера было произведено множественное белоковое выравнивание на сайте https://www.ebi.ac.uk/Tools/msa/clustalo/ . В качестве алгоритма для выравнивания был выбран алгоритм ```ClustalW with character counts```. Файлы с выравниванием можно найти в папке data.
+
+# Визуализация расположения участков Z-DNA для каждого выбранного кластера
+
+Номер кластера | Название вида | Визуализация
+---|---|---
+0 | donovani | <img width="363" alt="image" src="https://user-images.githubusercontent.com/60758722/173232299-8ed0c4f3-1cbf-447c-86b0-4cb65c2b3299.png">
+0 | enriettii | <img width="360" alt="image" src="https://user-images.githubusercontent.com/60758722/173232347-ddea5640-ed4d-4140-8e2a-e16bb20903f5.png">
+0 | infantum JPCM5 | <img width="369" alt="image" src="https://user-images.githubusercontent.com/60758722/173232282-70dad52d-81e5-4e92-81ff-5f1a07bd2141.png">
+0 | martiniquensis | <img width="360" alt="image" src="https://user-images.githubusercontent.com/60758722/173232358-201065cc-89af-4543-b014-c737f65ef392.png">
+0 | panamensis | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232336-5ceb7df0-6bbb-419c-b793-c2a03d98ac65.png">
+1 | donovani | <img width="352" alt="image" src="https://user-images.githubusercontent.com/60758722/173232464-6763199b-c017-4a4d-8442-97e8d8a50005.png">
+1 | enriettii | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173232499-1ef26f77-7a8d-4f41-9f86-c109a5c70371.png">
+1 | infantum JPCM5 | <img width="356" alt="image" src="https://user-images.githubusercontent.com/60758722/173232457-cb3224c6-5461-460b-a827-db8c4d3a93bd.png">
+1 | martiniquensis | <img width="346" alt="image" src="https://user-images.githubusercontent.com/60758722/173232513-c7e9f707-e5c5-439f-972b-bfcc2a851f6b.png">
+1 | panamensis | <img width="356" alt="image" src="https://user-images.githubusercontent.com/60758722/173232491-6f50e153-69d0-425b-8009-ae29f928c174.png">
+2 | donovani | <img width="363" alt="image" src="https://user-images.githubusercontent.com/60758722/173232534-3a50537c-9370-450a-a4bc-71e595438afe.png">
+2 | enriettii | <img width="386" alt="image" src="https://user-images.githubusercontent.com/60758722/173232552-dfa1423b-506b-4a9a-82eb-2989774e1fc2.png">
+2 | infantum JPCM5 | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173232523-f573faa9-bc4f-4610-ba58-020551f22dde.png">
+2 | martiniquensis | <img width="414" alt="image" src="https://user-images.githubusercontent.com/60758722/173232557-1f0b3c67-caf1-4a96-af23-81f3862109c9.png">
+2 | panamensis | <img width="368" alt="image" src="https://user-images.githubusercontent.com/60758722/173232543-a4b20f50-2a24-4cc4-bcac-1225b365e70e.png">
+3 | donovani | 
+3 | enriettii | 
+3 | infantum JPCM5 | 
+3 | martiniquensis | 
+3 | panamensis | 
+4 | donovani | 
+4 | enriettii | 
+4 | infantum JPCM5 | 
+4 | martiniquensis | 
+4 | panamensis | 
+5 | donovani | 
+5 | enriettii | 
+5 | infantum JPCM5 | 
+5 | martiniquensis | 
+5 | panamensis | 
+6 | donovani | 
+6 | enriettii | 
+6 | infantum JPCM5 | 
+6 | martiniquensis | 
+6 | panamensis | 
+7 | donovani | 
+7 | enriettii | 
+7 | infantum JPCM5 | 
+7 | martiniquensis | 
+7 | panamensis | 
+8 | donovani | 
+8 | enriettii | 
+8 | infantum JPCM5 | 
+8 | martiniquensis | 
+8 | panamensis | 
+9 | donovani | 
+9 | enriettii | 
+9 | infantum JPCM5 | 
+9 | martiniquensis | 
+9 | panamensis | 
