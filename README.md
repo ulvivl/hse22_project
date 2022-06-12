@@ -168,38 +168,38 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 2 | infantum JPCM5 | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173232523-f573faa9-bc4f-4610-ba58-020551f22dde.png">
 2 | martiniquensis | <img width="414" alt="image" src="https://user-images.githubusercontent.com/60758722/173232557-1f0b3c67-caf1-4a96-af23-81f3862109c9.png">
 2 | panamensis | <img width="368" alt="image" src="https://user-images.githubusercontent.com/60758722/173232543-a4b20f50-2a24-4cc4-bcac-1225b365e70e.png">
-3 | donovani | 
-3 | enriettii | 
-3 | infantum JPCM5 | 
-3 | martiniquensis | 
-3 | panamensis | 
-4 | donovani | 
-4 | enriettii | 
-4 | infantum JPCM5 | 
-4 | martiniquensis | 
-4 | panamensis | 
-5 | donovani | 
-5 | enriettii | 
-5 | infantum JPCM5 | 
-5 | martiniquensis | 
-5 | panamensis | 
-6 | donovani | 
-6 | enriettii | 
-6 | infantum JPCM5 | 
-6 | martiniquensis | 
-6 | panamensis | 
-7 | donovani | 
-7 | enriettii | 
-7 | infantum JPCM5 | 
-7 | martiniquensis | 
-7 | panamensis | 
-8 | donovani | 
-8 | enriettii | 
-8 | infantum JPCM5 | 
-8 | martiniquensis | 
-8 | panamensis | 
-9 | donovani | 
-9 | enriettii | 
-9 | infantum JPCM5 | 
-9 | martiniquensis | 
-9 | panamensis | 
+3 | donovani | <img width="358" alt="image" src="https://user-images.githubusercontent.com/60758722/173232633-8826ddd8-632f-4726-892c-da52de374e40.png">
+3 | enriettii | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232646-c0b29c4f-fd80-451c-a2b0-e8c4eb6784cc.png">
+3 | infantum JPCM5 | <img width="355" alt="image" src="https://user-images.githubusercontent.com/60758722/173232629-9c07658a-4e0a-4acb-9b7d-78a6c1cde5cb.png">
+3 | martiniquensis | <img width="351" alt="image" src="https://user-images.githubusercontent.com/60758722/173232656-9ce55121-746d-4d7b-a096-fe142fd74fdc.png">
+3 | panamensis | <img width="356" alt="image" src="https://user-images.githubusercontent.com/60758722/173232638-ff03d8e2-dc1c-4da0-8d01-1a0cac968050.png">
+4 | donovani | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232675-bf7e195f-ba6e-4218-9f75-917028dea941.png">
+4 | enriettii | <img width="365" alt="image" src="https://user-images.githubusercontent.com/60758722/173232692-5d3f45e1-da26-4073-8981-b7abd4703a0a.png">
+4 | infantum JPCM5 | <img width="376" alt="image" src="https://user-images.githubusercontent.com/60758722/173232662-0417bfb6-7b45-4bbc-9d4a-89d649cfcba8.png">
+4 | martiniquensis | <img width="372" alt="image" src="https://user-images.githubusercontent.com/60758722/173232700-ca344b3a-8fb2-4f66-b7de-538f9f0eb44b.png">
+4 | panamensis | <img width="378" alt="image" src="https://user-images.githubusercontent.com/60758722/173232684-6fa14338-6880-4a0e-815b-518583f8fcec.png">
+5 | donovani | <img width="352" alt="image" src="https://user-images.githubusercontent.com/60758722/173232731-c883ea3c-82f4-46c9-ba10-8c9355adfad6.png">
+5 | enriettii | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232782-7e6d5ec0-4758-487c-85dd-95d659233f99.png">
+5 | infantum JPCM5 | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232722-4e90d138-6091-489b-a0d4-c78f197d5ead.png">
+5 | martiniquensis | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232791-309f6559-a2ae-41b6-a767-5a92f37e8d45.png">
+5 | panamensis | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232770-29517b3b-8a40-470b-b517-3f24b9d40c71.png">
+6 | donovani | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232804-6887f0da-a0f7-433d-931b-8836e12a8b43.png">
+6 | enriettii | <img width="360" alt="image" src="https://user-images.githubusercontent.com/60758722/173232822-cb486585-a025-42af-a14d-5614f9c6a53e.png">
+6 | infantum JPCM5 | <img width="351" alt="image" src="https://user-images.githubusercontent.com/60758722/173232799-a083805d-e06d-4284-b2f1-1d03f7dee40a.png">
+6 | martiniquensis | <img width="343" alt="image" src="https://user-images.githubusercontent.com/60758722/173232831-d3238211-9334-481e-8c46-0a9a57cc8835.png">
+6 | panamensis | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232816-6ae41c66-7d0a-4c87-87b7-c36de8515cd7.png">
+7 | donovani | <img width="356" alt="image" src="https://user-images.githubusercontent.com/60758722/173232851-55ba9ad0-3f27-4ad9-9a3f-a9b189bf2477.png">
+7 | enriettii | <img width="369" alt="image" src="https://user-images.githubusercontent.com/60758722/173232904-e6ba1464-5112-48ee-b63c-707ea63a6dea.png">
+7 | infantum JPCM5 | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232843-b54c4859-abaf-4ba3-bf50-7de48a6c629e.png">
+7 | martiniquensis | На данный ген не попали Z-DNA
+7 | panamensis | <img width="345" alt="image" src="https://user-images.githubusercontent.com/60758722/173232898-f8ec2d2b-c73d-4ed3-b041-a39742cf0801.png">
+8 | donovani | <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173232943-f71a5ddc-248a-4d8e-9175-e2726561bc86.png">
+8 | enriettii | <img width="366" alt="image" src="https://user-images.githubusercontent.com/60758722/173232966-8a6e59c5-5aee-4206-9a63-cc63dcbd177b.png">
+8 | infantum JPCM5 | <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173232934-f703f0a7-e128-4aca-8ab5-80d98801ecd5.png">
+8 | martiniquensis | <img width="366" alt="image" src="https://user-images.githubusercontent.com/60758722/173232979-b8c6e730-6cdb-441a-aaa2-f3ef708a4d23.png">
+8 | panamensis | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232956-e198dcd0-6ce5-4233-a103-ea6ff9f6059b.png">
+9 | donovani | <img width="365" alt="image" src="https://user-images.githubusercontent.com/60758722/173233023-54f0085e-11fa-4ed0-971a-bfd630a19056.png">
+9 | enriettii | <img width="353" alt="image" src="https://user-images.githubusercontent.com/60758722/173233069-f6476a2f-a679-4d65-a6f2-2d01d73feb8b.png">
+9 | infantum JPCM5 | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173233006-da20b71f-04be-4956-843f-582bdcfea362.png">
+9 | martiniquensis | <img width="350" alt="image" src="https://user-images.githubusercontent.com/60758722/173233080-d45efc0f-1b6a-497c-8ceb-d97bc4d31329.png">
+9 | panamensis | <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173233047-52f209e4-b4d8-493e-9403-2c39d20d5acf.png">
