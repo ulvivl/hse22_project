@@ -203,3 +203,5 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 9 | infantum JPCM5 | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173233006-da20b71f-04be-4956-843f-582bdcfea362.png">
 9 | martiniquensis | <img width="350" alt="image" src="https://user-images.githubusercontent.com/60758722/173233080-d45efc0f-1b6a-497c-8ceb-d97bc4d31329.png">
 9 | panamensis | <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173233047-52f209e4-b4d8-493e-9403-2c39d20d5acf.png">
+
+На каждом рисунке выше отрисован ген из генома, попадающий в соотвествующий кластер. На каждом гене, отрисованы все z-dna с их zh-score. Такая визуализация помогает увидеть где именно находится участок z-dna относительно гена. Каждый ген подписан по следующему принципу: gene + LOCUS(из файла gbff), где LOCUS отвечает за то, к какому геному принадлежит ген.
