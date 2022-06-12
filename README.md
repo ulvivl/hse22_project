@@ -91,7 +91,7 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 Получается что я буду рассматривать кластеры, в которых находится по одному гену из генома.
 
 Номер кластера | Название вида | product_accession | Функция гена | Ссылка на источник
----|---|---|---
+---|---|---|---|---
 0 | donovani | CBZ36062.1 | hypothetical protein, conserved | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
 0 | enriettii | KAG5473030.1 | hypothetical protein | определение функции затруднено | https://en.wikipedia.org/wiki/Hypothetical_protein
 0 | infantum JPCM5 | CAM69935.1 | conserved hypothetical protein | функционально не охарактеризован | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC524295/
