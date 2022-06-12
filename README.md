@@ -178,34 +178,30 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 4 | infantum JPCM5 | <img width="370" alt="image" src="https://user-images.githubusercontent.com/60758722/173235741-3e2ec4a7-9cc9-4e66-b18e-d9b9268ddfe4.png">
 4 | martiniquensis | <img width="373" alt="image" src="https://user-images.githubusercontent.com/60758722/173235794-a2704aea-af44-4b92-b431-7f0c496ea52b.png">
 4 | panamensis | <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235753-33c494d1-8590-4615-b630-f51366317c2e.png">
-
-
-
-5 | donovani | 
-5 | enriettii | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232782-7e6d5ec0-4758-487c-85dd-95d659233f99.png">
-5 | infantum JPCM5 | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232722-4e90d138-6091-489b-a0d4-c78f197d5ead.png">
-5 | martiniquensis | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232791-309f6559-a2ae-41b6-a767-5a92f37e8d45.png">
-5 | panamensis | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232770-29517b3b-8a40-470b-b517-3f24b9d40c71.png">
-
-6 | donovani | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232804-6887f0da-a0f7-433d-931b-8836e12a8b43.png">
-6 | enriettii | <img width="360" alt="image" src="https://user-images.githubusercontent.com/60758722/173232822-cb486585-a025-42af-a14d-5614f9c6a53e.png">
-6 | infantum JPCM5 | <img width="351" alt="image" src="https://user-images.githubusercontent.com/60758722/173232799-a083805d-e06d-4284-b2f1-1d03f7dee40a.png">
-6 | martiniquensis | <img width="343" alt="image" src="https://user-images.githubusercontent.com/60758722/173232831-d3238211-9334-481e-8c46-0a9a57cc8835.png">
-6 | panamensis | <img width="357" alt="image" src="https://user-images.githubusercontent.com/60758722/173232816-6ae41c66-7d0a-4c87-87b7-c36de8515cd7.png">
-7 | donovani | <img width="356" alt="image" src="https://user-images.githubusercontent.com/60758722/173232851-55ba9ad0-3f27-4ad9-9a3f-a9b189bf2477.png">
-7 | enriettii | <img width="369" alt="image" src="https://user-images.githubusercontent.com/60758722/173232904-e6ba1464-5112-48ee-b63c-707ea63a6dea.png">
-7 | infantum JPCM5 | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173232843-b54c4859-abaf-4ba3-bf50-7de48a6c629e.png">
+5 | donovani | <img width="353" alt="image" src="https://user-images.githubusercontent.com/60758722/173235874-3d0745b3-903e-48fd-94e7-008c3acb785d.png">
+5 | enriettii | <img width="362" alt="image" src="https://user-images.githubusercontent.com/60758722/173235908-a7c38428-f846-4dfa-9ad4-2468a345cb76.png">
+5 | infantum JPCM5 | <img width="370" alt="image" src="https://user-images.githubusercontent.com/60758722/173235866-25d07592-7a1c-4a7b-ae11-56eba20b4ffe.png">
+5 | martiniquensis | <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235916-26a05580-b747-4b2f-8a6f-5283eda4f093.png">
+5 | panamensis | <img width="385" alt="image" src="https://user-images.githubusercontent.com/60758722/173235898-d2affda0-325e-4d47-8e9e-2b3920ec3d90.png">
+6 | donovani | <img width="354" alt="image" src="https://user-images.githubusercontent.com/60758722/173235946-60685aa4-3a6a-4ad1-8742-6d63b5b91c3a.png">
+6 | enriettii | <img width="375" alt="image" src="https://user-images.githubusercontent.com/60758722/173235961-7fcd47d1-9035-4560-94f3-17da9a6f2bb5.png">
+6 | infantum JPCM5 | <img width="349" alt="image" src="https://user-images.githubusercontent.com/60758722/173235936-438bc6cd-8449-49d7-9d23-6b4d159ccdd6.png">
+6 | martiniquensis | <img width="350" alt="image" src="https://user-images.githubusercontent.com/60758722/173235970-660dad02-0667-449e-9703-7a63431409e7.png">
+6 | panamensis | <img width="362" alt="image" src="https://user-images.githubusercontent.com/60758722/173235954-4dd03934-8f64-4345-b9e2-b31ec8841fb8.png">
+7 | donovani | <img width="372" alt="image" src="https://user-images.githubusercontent.com/60758722/173235985-524c2147-fec8-4f1d-97aa-db53fe11b60f.png">
+7 | enriettii | <img width="371" alt="image" src="https://user-images.githubusercontent.com/60758722/173236002-d88a5df9-da0a-4623-a202-b419294fcc4d.png">
+7 | infantum JPCM5 | <img width="368" alt="image" src="https://user-images.githubusercontent.com/60758722/173235979-a3197846-9fc7-4bb2-bc0c-23dfb3090c54.png">
 7 | martiniquensis | На данный ген не попали Z-DNA
-7 | panamensis | <img width="345" alt="image" src="https://user-images.githubusercontent.com/60758722/173232898-f8ec2d2b-c73d-4ed3-b041-a39742cf0801.png">
-8 | donovani | <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173232943-f71a5ddc-248a-4d8e-9175-e2726561bc86.png">
-8 | enriettii | <img width="366" alt="image" src="https://user-images.githubusercontent.com/60758722/173232966-8a6e59c5-5aee-4206-9a63-cc63dcbd177b.png">
-8 | infantum JPCM5 | <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173232934-f703f0a7-e128-4aca-8ab5-80d98801ecd5.png">
-8 | martiniquensis | <img width="366" alt="image" src="https://user-images.githubusercontent.com/60758722/173232979-b8c6e730-6cdb-441a-aaa2-f3ef708a4d23.png">
-8 | panamensis | <img width="367" alt="image" src="https://user-images.githubusercontent.com/60758722/173232956-e198dcd0-6ce5-4233-a103-ea6ff9f6059b.png">
-9 | donovani | <img width="365" alt="image" src="https://user-images.githubusercontent.com/60758722/173233023-54f0085e-11fa-4ed0-971a-bfd630a19056.png">
-9 | enriettii | <img width="353" alt="image" src="https://user-images.githubusercontent.com/60758722/173233069-f6476a2f-a679-4d65-a6f2-2d01d73feb8b.png">
-9 | infantum JPCM5 | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173233006-da20b71f-04be-4956-843f-582bdcfea362.png">
-9 | martiniquensis | <img width="350" alt="image" src="https://user-images.githubusercontent.com/60758722/173233080-d45efc0f-1b6a-497c-8ceb-d97bc4d31329.png">
-9 | panamensis | <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173233047-52f209e4-b4d8-493e-9403-2c39d20d5acf.png">
+7 | panamensis | <img width="365" alt="image" src="https://user-images.githubusercontent.com/60758722/173235992-6730d77b-b270-4165-a3d4-23f64c61fbd8.png">
+8 | donovani | <img width="354" alt="image" src="https://user-images.githubusercontent.com/60758722/173236027-8bf78dcb-e5cf-4ec3-99ae-fd0730da6eb5.png">
+8 | enriettii | <img width="383" alt="image" src="https://user-images.githubusercontent.com/60758722/173236048-e880ccf2-fc0b-439a-be64-1f9ebb20a166.png">
+8 | infantum JPCM5 | <img width="369" alt="image" src="https://user-images.githubusercontent.com/60758722/173236016-daa53a01-c445-48ad-9815-9662d100365c.png">
+8 | martiniquensis | <img width="384" alt="image" src="https://user-images.githubusercontent.com/60758722/173236061-092d5cd2-f68a-4bfb-bc0e-ddb9d3472da2.png">
+8 | panamensis | <img width="385" alt="image" src="https://user-images.githubusercontent.com/60758722/173236038-e8630dfb-ffe4-4ddc-80f4-5256ec7cde18.png">
+9 | donovani | <img width="362" alt="image" src="https://user-images.githubusercontent.com/60758722/173236078-e9492369-d213-43d7-a75f-6ac69aeb6a79.png">
+9 | enriettii | <img width="377" alt="image" src="https://user-images.githubusercontent.com/60758722/173236088-f2f9340e-4313-4c0b-a101-5f683584459e.png">
+9 | infantum JPCM5 | <img width="370" alt="image" src="https://user-images.githubusercontent.com/60758722/173236070-995a0bc0-17ca-4b0b-a920-7bcb3d580285.png">
+9 | martiniquensis | <img width="361" alt="image" src="https://user-images.githubusercontent.com/60758722/173236095-e484177f-96f0-456f-a8eb-0847a3f82baf.png">
+9 | panamensis | <img width="360" alt="image" src="https://user-images.githubusercontent.com/60758722/173236083-e4f7b6fc-d10b-437d-8220-29966ba23814.png">
 
 На каждом рисунке выше отрисован ген из генома, попадающий в соотвествующий кластер. На каждом гене, отрисованы все z-dna с их zh-score. Такая визуализация помогает увидеть где именно находится участок z-dna относительно гена. Каждый ген подписан по следующему принципу: gene + LOCUS(из файла gbff), где LOCUS отвечает за то, к какому геному принадлежит ген.
