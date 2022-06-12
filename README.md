@@ -58,11 +58,11 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 
 Название вида | Визуализация
 ---|---
-donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713_2.png)
-enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305_2.png)
-infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_2.png)
-martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_2.png)
-panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_2.png)
+donovani | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00022713_4.png)
+enriettii | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916305_4.png)
+infantum JPCM5 | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000002875_4.png)
+martiniquensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_017916325_4.png)
+panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_000755165_4.png)
 
 #### Визуализация генов и предсказанных участков Z-DNA с помощью IGV
 
