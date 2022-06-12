@@ -81,7 +81,7 @@ panamensis | ![](https://github.com/ulvivl/hse22_project/blob/main/img/GCA_00075
 #### Информация по полученным гомологичным кластерам
 Общее число кластеров: 8114
 
-Гистограмма кластеров по кол-ву разных геномов в кластере
+#### Гистограмма кластеров по кол-ву разных геномов в кластере
 
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/60758722/173225361-9b88f357-4fa9-4b46-aba6-3307de36b4e1.png">
 
